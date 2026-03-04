@@ -437,4 +437,19 @@ blockquote {
     .footer-grid {
         grid-template-columns: 1fr;
     }
+    .science-content{
+        padding: 2rem 1rem;
+    }
+    .cycle-logic{
+        padding: 2rem 1rem;
+    }
+    .science-superiority{
+         padding: 1rem 0;   
+    }
+    .final-result{
+        padding-bottom: 3rem;
+    }
+    .cycle-step{
+        flex-flow: column;
+    }
 }
